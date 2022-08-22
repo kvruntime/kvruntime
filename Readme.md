@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning dotnet platform
-- 🌱 I’m currently improving level in python
+- 🔭 I’m currently learning dotnet platform programming
+- 🌱 I’m currently learning python
 - 📫 How to reach me: kveadev@proton.me
-- 😄 Pronouns: him/he
+- 😄 Pronouns: him/he/his
 
 
 <!--
