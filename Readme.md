@@ -1,5 +1,3 @@
-()[https://img.shields.io/github/issues/kveadev/kveadev?style=for-the-badge]
-
 ## Kveadev
 ### Hi there 👋
 
