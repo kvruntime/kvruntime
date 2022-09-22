@@ -1,6 +1,6 @@
 ## Hi there, nice to meet you 👋
 
-I'm a renewables energy engineer, and I like coding stuff
+I'm a renewable energy engineer, and I like coding stuff
 
 
 - 🔭 I’m currently learning dotnet platform programming
