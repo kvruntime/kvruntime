@@ -9,8 +9,8 @@ I'm a renewable energy engineer, and I like coding stuff
 - 😄 Pronouns: him/he/his
 
 ### Stats
-<a href=""https://orgonax/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=orgonax&show_icons=true&theme=radical">
+<a href="https://orgonax/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=orgonax&show_icons=true&theme=radical">
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kveadev&show_icons=true&theme=radical)]()
