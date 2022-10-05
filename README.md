@@ -13,8 +13,6 @@ I'm a renewable energy engineer, and I like coding stuff
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=orgonax&show_icons=true&theme=radical">
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kveadev&show_icons=true&theme=radical)]()
-
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kveadev)](https://github.com/kveadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orgonax)](https://github.com/orogonax/github-readme-stats)
