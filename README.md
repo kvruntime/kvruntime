@@ -9,6 +9,10 @@ I'm a renewable energy engineer, and I like coding stuff
 - 😄 Pronouns: him/he/his
 
 ### Stats
+<div style="text-align:center;">
+  <img href="[![Anurag's GitHub stats]" src="https://github-readme-stats.vercel.app/api?username=kveadev&show_icons=true&theme=radical"/>
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kveadev&show_icons=true&theme=radical)]()
 
 
