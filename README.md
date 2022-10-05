@@ -19,5 +19,5 @@ I'm a renewable energy engineer, and I like coding stuff
 
 ### Languages
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orgonax)](https://github.com/orgonax/github-readme-stats)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orgonax&layout=compact)](https://github.com/orgonax/github-readme-stats)
 </div>
