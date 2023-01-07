@@ -5,7 +5,7 @@ I'm a renewable energy engineer, and I like coding stuff
 
 - 🔭 I’m currently learning dotnet platform programming
 - 🌱 I’m currently learning python
-- 📫 How to reach me: kveadev@proton.me
+- 📫 How to reach me: kvruntime@gmail.com
 - 😄 Pronouns: him/he/his
 
 ## Stats
