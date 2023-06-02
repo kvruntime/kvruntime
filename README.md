@@ -12,9 +12,6 @@ I'm a renewable energy engineer, and I like coding stuff
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvruntime&show_icons=true)]()
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kvruntime&theme=vue-dark)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kvruntime&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
