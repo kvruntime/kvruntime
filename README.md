@@ -3,8 +3,9 @@
 I'm a renewable energy engineer, and I like coding stuff
 
 
-- 🔭 I’m currently learning dotnet platform programming
-- 🌱 I’m currently learning python
+
+- 🌱 I use mostly python
+- 🌱 I also code in C#
 - 📫 How to reach me: kvruntime@gmail.com
 - 😄 Pronouns: him/he/his
 
