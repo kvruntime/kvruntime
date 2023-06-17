@@ -15,7 +15,7 @@ I'm a renewable energy engineer, and I like coding stuff
 [![GitHub Streak](https://streak-stats.demolab.com?user=kvruntime&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,python,cs,docker,dotnet,fastapi,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,docker,dotnet,fastapi,github)](https://skillicons.dev)
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvruntime)](https://github.com/kvruntime/github-readme-stats)
