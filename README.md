@@ -17,8 +17,6 @@ I'm a renewable energy engineer, and I like coding stuff
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,cs,docker,dotnet,fastapi,github)](https://skillicons.dev)
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvruntime)](https://github.com/kvruntime/github-readme-stats)
 
 ## Dev tools
 
