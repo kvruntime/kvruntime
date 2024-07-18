@@ -21,13 +21,11 @@ I'm a renewable energy engineer, and I like coding stuff
 ## Dev tools
 
 ### DB Manager
-- [Mongo DB Compass](https://www.mongodb.com/try/download/compass)
-- [Mongo Shell](https://www.mongodb.com/try/download/shell)
+- [Mongo DB Compass](https://www.mongodb.com/try/download/compass) & [Mongo Shell](https://www.mongodb.com/try/download/shell)
 - [Dbeaver](https://dbeaver.io/download/)
 - [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 - [pgadmin](https://www.pgadmin.org/download/)
 - [Intellij](https://www.jetbrains.com/idea/download/)
-- [Qt](https://www.qt.io/offline-installers)
 - [RedisInsight](https://redis.com/fr/redis-enterprise/redisinsight/)
 
 
