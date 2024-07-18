@@ -39,7 +39,7 @@ I'm a renewable energy engineer, and I like coding stuff
 ### API Explorer
 
 -  [Insomina](https://insomnia.rest/download)
--  [Postman](https://insomnia.rest/download](https://www.postman.com/)
+-  [Postman](https://www.postman.com)
 
 ### Modeler
 
