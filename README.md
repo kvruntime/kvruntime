@@ -21,33 +21,34 @@ I'm a renewable energy engineer, and I like coding stuff
 ## Dev tools
 
 ### DB Manager
-- Mongo DB Compass [link](https://www.mongodb.com/try/download/compass)
-- Mongo Shell [link](https://www.mongodb.com/try/download/shell)
-- Dbeaver [link](https://dbeaver.io/download/)
-- Sql Server Management Studio [link](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-- pgadmin [link](https://www.pgadmin.org/download/)
-- Intellij [link](https://www.jetbrains.com/idea/download/)
-- Qt [link](https://www.qt.io/offline-installers)
-- RedisInsight [link](https://redis.com/fr/redis-enterprise/redisinsight/)
+- [Mongo DB Compass](https://www.mongodb.com/try/download/compass)
+- [Mongo Shell](https://www.mongodb.com/try/download/shell)
+- [Dbeaver](https://dbeaver.io/download/)
+- [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+- [pgadmin](https://www.pgadmin.org/download/)
+- [Intellij](https://www.jetbrains.com/idea/download/)
+- [Qt](https://www.qt.io/offline-installers)
+- [RedisInsight](https://redis.com/fr/redis-enterprise/redisinsight/)
 
 
 ### IDE
 
-- Vscode [link](https://code.visualstudio.com/download)
-- Pycharm [link](https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows)
+- [Vscode](https://code.visualstudio.com/download)
+- [Pycharm](https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows)
 
 ### API Explorer
 
-- Insomina [link](https://insomnia.rest/download)
+-  [Insomina](https://insomnia.rest/download)
+-  [Postman]([https://insomnia.rest/download](https://www.postman.com/))
 
 ### Modeler
 
-- StartUML [link](https://staruml.io/download)
+- [StartUML](https://staruml.io/download)
 
 ### Runtimes & Sdk
 
-- Microsoft Jdk [link](https://learn.microsoft.com/en-us/java/openjdk/download)
-- Python [link](https://www.python.org/downloads/)
+- [Microsoft Jdk](https://learn.microsoft.com/en-us/java/openjdk/download)
+-  [Python](https://www.python.org/downloads/)
 
 
 ## Operating System
@@ -55,4 +56,3 @@ I'm a renewable energy engineer, and I like coding stuff
 - Tails OS
 - Parrot OS
 - Kali linux
-- Hack The Box
