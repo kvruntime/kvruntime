@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ## Hi there, nice to meet you 👋
 
 I'm currently working as software developer & DevOps practitioner in a renewable energy firm(Yes, I have a renewable energy engineering background)
