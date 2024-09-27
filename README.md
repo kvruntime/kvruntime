@@ -2,6 +2,16 @@
 
 I'm currently working as software developer & DevOps practitioner in a renewable energy firm(Yes, I have a renewable energy engineering background)
 
+## Programming Langages
+[![My Skills](https://skillicons.dev/icons?i=python,cs,js)](https://skillicons.dev)
+
+## Technologies
+[![My Skills](https://skillicons.dev/icons?i=docker,dotnet,github,git)](https://skillicons.dev)
+
+
+## Web
+[![My Skills](https://skillicons.dev/icons?i=blazor,fastapi,react)](https://skillicons.dev)
+
 
 - 🌱 I use mostly python
 - 🌱 I also code in C#
@@ -14,8 +24,7 @@ I'm currently working as software developer & DevOps practitioner in a renewable
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kvruntime&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,cs,docker,dotnet,fastapi,github)](https://skillicons.dev)
+
 
 
 
