@@ -2,6 +2,10 @@
 
 I'm currently working as software developer & DevOps practitioner in a renewable energy firm(Yes, I have a renewable energy engineering background)
 
+- 📫 How to reach me: kvruntime@gmail.com
+- 😄 Pronouns: him/he/his
+
+
 ## Programming Langages
 [![My Skills](https://skillicons.dev/icons?i=python,cs,js,ts)](https://skillicons.dev)
 
@@ -13,11 +17,8 @@ I'm currently working as software developer & DevOps practitioner in a renewable
 [![My Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs)](https://skillicons.dev)
 
 
-- 🌱 I use mostly python
-- 🌱 I also code in C#
-- I'use React & Nextjs
-- 📫 How to reach me: kvruntime@gmail.com
-- 😄 Pronouns: him/he/his
+
+
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvruntime&show_icons=true)]()
