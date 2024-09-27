@@ -3,14 +3,14 @@
 I'm currently working as software developer & DevOps practitioner in a renewable energy firm(Yes, I have a renewable energy engineering background)
 
 ## Programming Langages
-[![My Skills](https://skillicons.dev/icons?i=python,cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,js,ts)](https://skillicons.dev)
 
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=docker,dotnet,github,git)](https://skillicons.dev)
 
 
 ## Web
-[![My Skills](https://skillicons.dev/icons?i=blazor,fastapi,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs)](https://skillicons.dev)
 
 
 - 🌱 I use mostly python
