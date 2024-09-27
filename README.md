@@ -16,7 +16,8 @@ I'm currently working as software developer & DevOps practitioner in a renewable
 
 
 ## Web
-[![My Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,react,nextjs)](https://skillicons.dev) <i class="devicon-blazor-original colored"></i>
+          
 
 
 
