@@ -2,7 +2,7 @@
        
 I'm Kvruntime (him,he), I'm currently working as software developer & DevOps practitioner in a renewable energy firm(Yes, I have a renewable energy engineering background)
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,ts, docker,dotnet,github,git, fastapi,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,ts,docker,dotnet,github,git,fastapi,react,nextjs)](https://skillicons.dev)
 
 
 <details>
